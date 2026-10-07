@@ -1,0 +1,2654 @@
+@media (min-width: 1401px) and (max-width: 1919px){
+    .header_section {
+    width: calc(100% - 40px);
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+   .header_section {
+    width: calc(100% - 40px);
+    max-width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .hero_heading > h1 {
+    font-size: 50px;
+  }
+  nav > ul > li > a {
+    font-size: 16px;
+  }
+  .Project_bt-n > a {
+    font-size: 1em;
+  }
+  .logo > a > img {
+    width: 120px;
+  }
+  .language-btn,
+  .language-btn .fa-globe {
+    font-size: 14px;
+  }
+  .language-btn {
+    gap: 7px;
+  }
+  .navication-ber {
+    width: 85%;
+  }
+  .solutions-prev {
+    left: -35px;
+  }
+  .solutions-next {
+    right: -35px;
+}
+  .solutions-prev > svg, .solutions-next >svg {
+    width: 27px;
+  }
+  .language-btn{
+    padding: 8px 10px;
+  }
+  .has-submenu:hover .submenu{
+    bottom: -255px;
+  }
+  .project-form{
+    width: 55%;
+  }
+  .projectImg-box > p{
+    height: 118px;
+  }
+    .engineering-controls{
+    width: 80%;
+  }
+}
+@media (max-width: 1400px) {
+  .header_section {
+    width: calc(100% - 40px);
+    max-width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .hero_heading > h1, .Engineering-titel > h1 {
+    font-size: 50px;
+  }
+  .Industries-content-box > p,
+  .view_btN > a,
+  .about-textBox > p,
+  .about-textBox > a,
+  .product_titel-box > a,
+  .footer_logoBox > p,
+  .info,
+  .news_btn > a,
+  .EngineeringArea-textArea > p,
+  .product_titel-box > p,
+  .Engineering-Solutions-text-box > p,
+  .Our-Core-content-text > p,
+  .product_btn > a,
+  .hero_pragraph > p,
+  .ProductsBox > a,
+  #projectSubmitBtn,
+  .serve-image-box > p,
+  .projectImg-box > a,
+  .projectImg-box > p,
+  .contact-item > p,
+  .project-content-text-box > p,
+  .project-content-text-box > a,
+  .project-details-show-text > p:last-child,
+  .project-details-show-text > p,
+  .listing-dotted > li,
+  .contact-info > p,
+  .contact-submit > button,
+  .product-tab-content > p,
+  .ProductsPra-height > p,
+  .quotation-btn,
+  .ProductsPra > p {
+    font-size: 14px;
+  }
+  .product-tab {
+    font-size: 18px;
+  }
+  .gride-text-box > p{
+    font-size: 16px;
+  }
+  .gride-text-box > h3{
+    font-size: 16px;
+  }
+  .gride-text-box{
+    padding: 10px;
+  }
+  .Industries-titel,
+  .product-titel,
+  .brand-titel,
+  .product_titel-box > h2,
+  .about-textBox > h2,
+  .EngineeringArea-textArea > h2,
+  .solutions-title,
+  .engineering-title,
+  .Engineering-Solutions-text-box > h2,
+  .our-core-titel,
+  .Industries,
+  .Projects-titel,
+  .project-content-text-box > h2,
+  .project-details-show-text > h2,
+  .contact-form-wrapper > h2,
+  .categories-show-text > h2,
+  .product-content > h2 {
+    font-size: 24px;
+  }
+
+  .solution-card > h3,
+  .Industries-content-box > h3,
+  .ProductsBox > h3,
+  .footer-linkBox > h3,
+  .Our-Core-content-text > h3,
+  .quotation-header > h3,
+  .serve-image-box > h3,
+  .projectImg-box > h3,
+  .contact-info > h3,
+  .categories-show-text > h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .Engineering-titel > h1 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .categories-box > .container > .row {
+    row-gap: 30px;
+  }
+
+  .contact-info-text > strong,
+  .contact-form-group > label {
+    font-size: 15px;
+  }
+
+  .contact-icon > i {
+    font-size: 20px;
+  }
+  .ProductsBox > img {
+    width: 100%;
+  }
+  .contact-info-text > span {
+    font-size: 15px;
+  }
+  .hero_section_btn > a:first-child,
+  .hero_section_btn > a:last-child {
+    font-size: 1em;
+  }
+  nav > ul > li > a {
+    font-size: 16px;
+  }
+  .Project_bt-n > a {
+    font-size: 1em;
+  }
+  .logo > a > img {
+    width: 120px;
+  }
+  .language-btn,
+  .language-btn .fa-globe {
+    font-size: 14px;
+  }
+  .language-btn {
+    gap: 7px;
+  }
+  .contact-container{
+    width: 92%;
+  }
+  .navication-ber {
+    width: 85%;
+  }
+  .footer-linkBox > h3{
+    font-size: 18px;
+  }
+  .footer_logoBox > p{
+    font-size: 1em;
+  }
+  .solutions-prev {
+    left: -38px;
+  }
+  .solutions-next {
+    right: -38px;
+}
+  .solutions-prev > svg, .solutions-next > svg {
+    width: 30px;
+  }
+  .language-btn{
+    padding: 8px 10px;
+  }
+  .engineering-controls{
+    width: 80%;
+  }
+  .has-submenu:hover .submenu{
+    bottom: -255px;
+  }
+  .project-form{
+    width: 55%;
+  }
+  .projectImg-box > p{
+    height: 118px;
+  }
+}
+@media (max-width: 1200px) {
+  /* =====================================================
+       HEADER
+    ===================================================== */
+
+  /* =====================================================
+       MAIN LOGO
+    ===================================================== */
+
+  .logo {
+    position: relative;
+    z-index: 1002;
+
+    flex-shrink: 0;
+  }
+.EngineeringArea-textArea {
+    width: 100%;
+}
+.gride-box-pannel>div{
+  gap: 15px;
+}
+
+  .logo img {
+    display: block;
+
+    width: auto;
+    max-width: 180px;
+    height: auto;
+  }
+  /* =====================================================
+       HAMBURGER BUTTON
+    ===================================================== */
+
+  .mobile-menu-toggle {
+    position: relative;
+    z-index: 1005;
+    display: flex;
+    width: 48px;
+    height: 48px;
+    padding: 0;
+    border: 1px solid #dedede;
+    border-radius: 50%;
+    background: #fff;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+    transition:
+      background-color 0.3s ease,
+      border-color 0.3s ease;
+  }
+
+  .mobile-menu-toggle:hover {
+    background: #111;
+    border-color: #111;
+  }
+  .mobile-menu-toggle span {
+    display: block;
+    width: 21px;
+    height: 2px;
+    background: #111;
+    border-radius: 10px;
+    transition:
+      transform 0.3s ease,
+      opacity 0.25s ease,
+      background-color 0.3s ease;
+  }
+
+  .mobile-menu-toggle:hover span {
+    background: #fff;
+  }
+  /* =====================================================
+       HAMBURGER → X
+    ===================================================== */
+
+  .mobile-menu-toggle[aria-expanded="true"] span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+
+  .mobile-menu-toggle[aria-expanded="true"] span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .mobile-menu-toggle[aria-expanded="true"] span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+
+  /* =====================================================
+       SIDEBAR
+    ===================================================== */
+
+  .navication-ber {
+    position: fixed;
+
+    top: 0;
+    right: 0;
+    z-index: 1001;
+    width: 420px;
+    max-width: 92vw;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 35px 35px 40px;
+    background: #ffffff;
+    box-shadow: -20px 0 60px rgba(0, 0, 0, 0.12);
+    overflow-y: auto;
+    overflow-x: hidden;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateX(100%);
+    transition:
+      transform 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+      visibility 0.45s ease;
+  }
+
+  /* SIDEBAR OPEN */
+  .navication-ber.active {
+    visibility: visible;
+    pointer-events: auto;
+
+    transform: translateX(0);
+  }
+  /* =====================================================
+       SIDEBAR LOGO
+    ===================================================== */
+
+  .mobile-sidebar-logo {
+    display: block;
+    flex-shrink: 0;
+    padding-bottom: 25px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eeeeee;
+  }
+  .mobile-sidebar-logo img {
+    display: block;
+    width: auto;
+    max-width: 180px;
+    height: auto;
+  }
+
+  /* =====================================================
+       NAVIGATION
+    ===================================================== */
+
+  .navication-ber nav {
+    width: 100%;
+  }
+  .navication-ber nav > ul {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .navication-ber nav > ul > li {
+    position: relative;
+    width: 100%;
+    border-bottom: 1px solid #eeeeee;
+  }
+  .navication-ber nav > ul > li > a {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 55px;
+    padding: 14px 40px 14px 0;
+    font-size: 16px;
+    line-height: 1.4;
+    text-decoration: none;
+    transition:
+      color 0.25s ease,
+      padding-left 0.25s ease;
+  }
+  .navication-ber nav > ul > li > a:hover {
+    color: #777;
+    padding-left: 5px;
+  }
+  /* =====================================================
+       ACTIVE MENU
+    ===================================================== */
+  .navication-ber nav > ul > li.current-menu-item > a {
+    color: #111;
+    font-weight: 600;
+  }
+  /* =====================================================
+       PRODUCTS
+    ===================================================== */
+  .has-submenu {
+    position: relative;
+  }
+  .submenu-arrow {
+    position: absolute;
+    top: 14px;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    color: #111;
+    font-size: 11px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+
+  .has-submenu.active .submenu-arrow {
+    transform: rotate(180deg);
+  }
+  .ProductsBox img {
+    width: 100%;
+  }
+  /* =====================================================
+       PRODUCT SUBMENU
+    ===================================================== */
+
+  .navication-ber .submenu {
+    display: none;
+    width: 100%;
+    margin: 0;
+    padding: 0 0 12px 18px;
+
+    list-style: none;
+
+    border-left: 1px solid #e5e5e5;
+  }
+
+  .navication-ber .has-submenu.active .submenu {
+    display: block;
+  }
+
+  .navication-ber .submenu li {
+    width: 100%;
+  }
+  .project-form {
+    width: 65%;
+  }
+  .header_section {
+    position: relative;
+    width: 96%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  /* .sticky-header .header_section {
+    width: 100%;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+  } */
+  .navication-ber .submenu li a {
+    display: block;
+    padding: 9px 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    text-decoration: none;
+    transition:
+      color 0.25s ease,
+      padding-left 0.25s ease;
+  }
+
+  .navication-ber .submenu li a:hover {
+    color: #111;
+
+    padding-left: 15px;
+  }
+
+  /* =====================================================
+       LANGUAGE SWITCHER
+    ===================================================== */
+
+  .language-switcher {
+    position: relative;
+
+    width: 100%;
+
+    margin-top: 25px;
+  }
+
+  .language-btn {
+    display: flex;
+    align-items: center;
+
+    width: 100%;
+    min-height: 48px;
+
+    padding: 0;
+
+    border: 0;
+
+    background: transparent;
+
+    color: #111;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    cursor: pointer;
+  }
+
+  .language-btn .fa-globe {
+    margin-right: 8px;
+  }
+
+  .language-arrow {
+    margin-left: auto;
+
+    font-size: 10px;
+
+    transition: transform 0.3s ease;
+  }
+
+  .language-switcher.active .language-arrow {
+    transform: rotate(180deg);
+  }
+
+  /* =====================================================
+       LANGUAGE DROPDOWN
+    ===================================================== */
+
+  .language-dropdown {
+    display: none;
+
+    width: 100%;
+
+    padding: 5px 0 5px 25px;
+
+    border-left: 1px solid #eeeeee;
+  }
+
+  .language-dropdown.active {
+    display: block;
+  }
+
+  .language-dropdown button {
+    display: block;
+
+    width: 100%;
+
+    padding: 9px 0;
+
+    border: 0;
+
+    background: transparent;
+
+    color: #666;
+
+    font-size: 13px;
+
+    text-align: left;
+
+    cursor: pointer;
+
+    transition: color 0.25s ease;
+  }
+
+  .language-dropdown button:hover {
+    color: #111;
+  }
+
+  /* =====================================================
+       START YOUR PROJECT
+    ===================================================== */
+
+  .Project_bt-n {
+    width: 100%;
+
+    margin-top: 25px;
+  }
+
+  .Project_bt-n a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 54px;
+    padding: 14px 20px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    transition:
+      background-color 0.3s ease,
+      transform 0.3s ease;
+  }
+  .Project_bt-n a:hover {
+    background: #333;
+    transform: translateY(-2px);
+  }
+
+  /* =====================================================
+       OVERLAY
+    ===================================================== */
+
+  .mobile-menu-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.45);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition:
+      opacity 0.4s ease,
+      visibility 0.4s ease;
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+  }
+
+  .mobile-menu-overlay.active {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+  /* =====================================================
+       BODY SCROLL LOCK
+    ===================================================== */
+  body.menu-open {
+    overflow: hidden;
+  }
+  .hero_heading > h1,
+  .Engineering-titel > h1 {
+    font-size: 38px;
+  }
+  .projectImg-box > h3 {
+    height: 60px;
+  }
+  .product-details-section > .container > .row {
+    row-gap: 30px;
+  }
+  .product-tab {
+    font-size: 18px;
+  }
+  .Industries-titel,
+  .product-titel,
+  .brand-titel,
+  .product_titel-box > h2,
+  .about-textBox > h2,
+  .EngineeringArea-textArea > h2,
+  .solutions-title,
+  .engineering-title,
+  .Engineering-Solutions-text-box > h2,
+  .our-core-titel,
+  .Industries,
+  .Projects-titel,
+  .project-content-text-box > h2,
+  .project-details-show-text > h2,
+  .contact-form-wrapper > h2,
+  .categories-show-text > h2,
+  .product-content > h2 {
+    font-size: 24px;
+  }
+
+  .solution-card > h3,
+  .Industries-content-box > h3,
+  .ProductsBox > h3,
+  .footer-linkBox > h3,
+  .Our-Core-content-text > h3,
+  .quotation-header > h3,
+  .serve-image-box > h3,
+  .projectImg-box > h3,
+  .contact-info > h3,
+  .categories-show-text > h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .Engineering-titel > h1 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .categories-box > .container > .row {
+    row-gap: 30px;
+  }
+
+  .contact-info-text > strong,
+  .contact-form-group > label {
+    font-size: 15px;
+  }
+
+  .contact-icon > i {
+    font-size: 20px;
+  }
+  .ProductsBox > img {
+    width: 100%;
+  }
+  .contact-info-text > span {
+    font-size: 15px;
+  }
+  .hero_section_btn > a:first-child,
+  .hero_section_btn > a:last-child {
+    font-size: 1em;
+  }
+  .solutions-next {
+    right: -30px;
+  }
+  .solutions-prev {
+    left: -30px;
+  }
+  .solutions-prev,
+  .solutions-next,
+  .engineering-prev,
+  .engineering-next {
+    width: 25px;
+  }
+  .thum img {
+    width: 80%;
+  }
+  .Our-Products > .container > .row {
+    row-gap: 30px;
+  }
+  .product-box > .container > .row {
+    row-gap: 30px;
+  }
+  .Industries-content-box > p,
+  .view_btN > a,
+  .about-textBox > p,
+  .about-textBox > a,
+  .product_titel-box > a,
+  .footer_logoBox > p,
+  .info,
+  .news_btn > a,
+  .EngineeringArea-textArea > p,
+  .product_titel-box > p,
+  .Engineering-Solutions-text-box > p,
+  .Our-Core-content-text > p,
+  .product_btn > a,
+  .hero_pragraph > p,
+  .ProductsBox > a,
+  #projectSubmitBtn,
+  .serve-image-box > p,
+  .projectImg-box > a,
+  .projectImg-box > p,
+  .contact-item > p,
+  .project-content-text-box > p,
+  .project-content-text-box > a,
+  .project-details-show-text > p:last-child,
+  .project-details-show-text > p,
+  .listing-dotted > li,
+  .contact-info > p,
+  .contact-submit > button,
+  .product-tab-content > p,
+  .ProductsPra-height > p,
+  .quotation-btn,
+  .ProductsPra > p {
+    font-size: 14px;
+  }
+}
+@media (max-width: 992px) {
+  /* =====================================================
+       HEADER WRAPPER
+    ====================================================== */
+  nav {
+    display: block;
+  }
+  /* .submenu1{
+    display: none !important;
+  } */
+  header {
+    display: flex;
+    justify-content: center;
+  }
+  .header_section {
+    position: relative;
+    width: 96%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .EngineeringArea-textArea {
+    width: 100%;
+}
+
+
+  header.sticky-header {
+    position: sticky;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    z-index: 2147483647 !important;
+    background: var(--white);
+    isolation: isolate;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  .engineering-container {
+    width: 100%;
+  }
+  /* =====================================================
+       MAIN LOGO
+    ====================================================== */
+  .hero_heading > h1,
+  .Engineering-titel > h1 {
+    font-size: 38px;
+  }
+  .projectImg-box > h3 {
+    height: 60px;
+  }
+  .product-details-section > .container > .row {
+    row-gap: 30px;
+  }
+  .product-tab {
+    font-size: 18px;
+  }
+  .Industries-titel,
+  .product-titel,
+  .brand-titel,
+  .product_titel-box > h2,
+  .about-textBox > h2,
+  .EngineeringArea-textArea > h2,
+  .solutions-title,
+  .engineering-title,
+  .Engineering-Solutions-text-box > h2,
+  .our-core-titel,
+  .Industries,
+  .Projects-titel,
+  .project-content-text-box > h2,
+  .project-details-show-text > h2,
+  .contact-form-wrapper > h2,
+  .categories-show-text > h2,
+  .product-content > h2 {
+    font-size: 24px;
+  }
+
+  .solution-card > h3,
+  .Industries-content-box > h3,
+  .ProductsBox > h3,
+  .footer-linkBox > h3,
+  .Our-Core-content-text > h3,
+  .quotation-header > h3,
+  .serve-image-box > h3,
+  .projectImg-box > h3,
+  .contact-info > h3,
+  .categories-show-text > h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .Engineering-titel > h1 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .categories-box > .container > .row {
+    row-gap: 30px;
+  }
+
+  .contact-info-text > strong,
+  .contact-form-group > label {
+    font-size: 15px;
+  }
+
+  .contact-icon > i {
+    font-size: 20px;
+  }
+  .ProductsBox > img {
+    width: 100%;
+  }
+  .contact-info-text > span {
+    font-size: 15px;
+  }
+  .hero_section_btn > a:first-child,
+  .hero_section_btn > a:last-child {
+    font-size: 1em;
+  }
+  .solutions-next {
+    right: -30px;
+  }
+  .solutions-prev {
+    left: -30px;
+  }
+  .solutions-prev,
+  .solutions-next,
+  .engineering-prev,
+  .engineering-next {
+    width: 25px;
+  }
+  .thum img {
+    width: 80%;
+  }
+  .Our-Products > .container > .row {
+    row-gap: 30px;
+  }
+  .product-box > .container > .row {
+    row-gap: 30px;
+  }
+  .Industries-content-box > p,
+  .view_btN > a,
+  .about-textBox > p,
+  .about-textBox > a,
+  .product_titel-box > a,
+  .footer_logoBox > p,
+  .info,
+  .news_btn > a,
+  .EngineeringArea-textArea > p,
+  .product_titel-box > p,
+  .Engineering-Solutions-text-box > p,
+  .Our-Core-content-text > p,
+  .product_btn > a,
+  .hero_pragraph > p,
+  .ProductsBox > a,
+  #projectSubmitBtn,
+  .serve-image-box > p,
+  .projectImg-box > a,
+  .projectImg-box > p,
+  .contact-item > p,
+  .project-content-text-box > p,
+  .project-content-text-box > a,
+  .project-details-show-text > p:last-child,
+  .project-details-show-text > p,
+  .listing-dotted > li,
+  .contact-info > p,
+  .contact-submit > button,
+  .product-tab-content > p,
+  .ProductsPra-height > p,
+  .quotation-btn,
+  .ProductsPra > p {
+    font-size: 14px;
+  }
+  .header_section > .logo {
+    position: relative;
+    z-index: 10002;
+
+    flex: 0 0 auto;
+
+    display: flex;
+    align-items: center;
+  }
+
+  .header_section > .logo a {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .header_section > .logo img {
+    display: block;
+    width: 120px !important;
+    width: auto;
+    height: auto;
+  }
+  .project-form {
+    width: 80%;
+  }
+  /* =====================================================
+       HAMBURGER
+    ====================================================== */
+
+  .mobile-menu-toggle {
+    position: relative;
+    z-index: 10005;
+
+    width: 48px;
+    height: 48px;
+
+    padding: 0;
+    margin: 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    gap: 6px;
+
+    border: 0;
+    background: transparent;
+
+    cursor: pointer;
+
+    flex-shrink: 0;
+  }
+
+  .mobile-menu-toggle span {
+    display: block;
+    width: 28px;
+    height: 3px;
+    border-radius: 50px;
+    transition:
+      transform 0.3s ease,
+      opacity 0.25s ease,
+      width 0.3s ease;
+    background-color: currentColor;
+  }
+
+  /* =====================================================
+       HAMBURGER → CLOSE
+    ====================================================== */
+
+  .mobile-menu-toggle.active span:nth-child(1) {
+    transform: translateY(9px) rotate(45deg);
+  }
+
+  .mobile-menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+    width: 0;
+  }
+
+  .mobile-menu-toggle.active span:nth-child(3) {
+    transform: translateY(-9px) rotate(-45deg);
+  }
+
+  /* =====================================================
+       MOBILE NAVIGATION SIDEBAR
+    ====================================================== */
+
+  .navication-ber {
+    position: fixed;
+
+    top: 0;
+    right: 0;
+
+    width: 420px;
+    max-width: 92%;
+
+    height: 100vh;
+    height: 100dvh;
+
+    z-index: 10004;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+    padding: 35px 32px 35px;
+
+    overflow-x: hidden;
+    overflow-y: auto;
+
+    background: #ffffff;
+
+    box-shadow: -20px 0 60px rgba(0, 0, 0, 0.14);
+
+    transform: translateX(105%);
+
+    visibility: hidden;
+
+    transition:
+      transform 0.45s cubic-bezier(0.77, 0, 0.175, 1),
+      visibility 0s linear 0.45s;
+  }
+
+  .navication-ber.active {
+    transform: translateX(0);
+
+    visibility: visible;
+
+    transition:
+      transform 0.45s cubic-bezier(0.77, 0, 0.175, 1),
+      visibility 0s linear 0s;
+  }
+
+  /* =====================================================
+       SIDEBAR SCROLLBAR
+    ====================================================== */
+
+  .navication-ber::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  .navication-ber::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .navication-ber::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+  }
+
+  /* =====================================================
+       SIDEBAR LOGO
+    ====================================================== */
+
+  .mobile-sidebar-logo {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 20px;
+    padding-bottom: 25px;
+
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  .mobile-sidebar-logo a {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .mobile-sidebar-logo img {
+    display: block;
+    width: auto;
+    max-width: 100px;
+    height: auto;
+  }
+
+  .product-tabs > button {
+    width: 33.33%;
+  }
+  /* =====================================================
+       NAVIGATION
+    ====================================================== */
+  .footer-gap {
+    row-gap: 50px;
+  }
+  .contact-container {
+    padding: 0px 20px;
+  }
+  .social_mediaIcon > a > svg {
+    width: 25px;
+  }
+  .social_mediaIcon {
+    gap: 30px;
+  }
+  .navication-ber nav {
+    width: 100%;
+  }
+
+  .navication-ber nav > ul {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+  }
+
+  .navication-ber nav > ul > li {
+    position: relative;
+
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+
+    border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  }
+
+  .navication-ber nav > ul > li:last-child {
+    border-bottom: 0;
+  }
+
+  /* =====================================================
+       MAIN MENU LINKS
+    ====================================================== */
+
+  .navication-ber nav > ul > li > a {
+    position: relative;
+
+    width: 100%;
+    min-height: 58px;
+
+    display: flex;
+    align-items: center;
+
+    padding: 15px 50px 15px 0;
+
+    text-decoration: none;
+
+    line-height: 1.4;
+
+    white-space: normal;
+
+    transition:
+      padding-left 0.25s ease,
+      opacity 0.25s ease;
+  }
+
+  .navication-ber nav > ul > li > a:hover {
+    padding-left: 7px;
+  }
+
+  /* =====================================================
+       ACTIVE MENU
+    ====================================================== */
+
+  .navication-ber nav > ul > li.current-menu-item > a {
+    font-weight: 600;
+  }
+
+  /* =====================================================
+       PRODUCTS / SUBMENU ARROW
+    ====================================================== */
+
+  .navication-ber .has-submenu {
+    position: relative;
+  }
+
+  .navication-ber .has-submenu > a {
+    padding-right: 60px;
+  }
+
+  .navication-ber .submenu-arrow {
+    position: absolute;
+
+    top: 11px;
+    right: 0;
+
+    width: 42px;
+    height: 42px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+
+    z-index: 2;
+
+    transition: transform 0.3s ease;
+  }
+
+  .navication-ber .has-submenu.active > .submenu-arrow {
+    transform: rotate(180deg);
+  }
+
+  /* =====================================================
+       SUBMENU
+    ====================================================== */
+
+  .navication-ber .submenu {
+    position: static;
+
+    display: none;
+
+    width: 100%;
+
+    margin: 0 0 12px;
+    padding: 5px 0 5px 18px;
+
+    list-style: none;
+
+    border-left: 2px solid rgba(0, 0, 0, 0.08);
+
+    background: transparent;
+  }
+
+  .navication-ber .has-submenu.active > .submenu {
+    display: block;
+  }
+
+  .navication-ber .submenu li {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .navication-ber .submenu li a {
+    display: block;
+
+    width: 100%;
+
+    padding: 11px 5px;
+
+    line-height: 1.45;
+
+    white-space: normal;
+
+    text-decoration: none;
+
+    transition:
+      padding-left 0.25s ease,
+      opacity 0.25s ease;
+  }
+
+  .navication-ber .submenu li a:hover {
+    padding-left: 13px;
+  }
+
+  /* =====================================================
+       LANGUAGE SWITCHER
+    ====================================================== */
+
+  .navication-ber .language-switcher {
+    position: relative;
+
+    width: 100%;
+
+    margin-top: 25px;
+    padding-top: 20px;
+
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  .navication-ber .language-btn {
+    width: 100%;
+    min-height: 50px;
+
+    display: flex;
+    align-items: center;
+
+    padding: 10px 15px;
+
+    border-radius: 7px;
+
+    cursor: pointer;
+  }
+
+  .navication-ber .language-btn .language-arrow {
+    margin-left: auto;
+  }
+
+  .navication-ber .language-dropdown {
+    width: 100%;
+
+    margin-top: 5px;
+  }
+
+  .navication-ber .language-dropdown button {
+    display: block;
+
+    width: 100%;
+
+    padding: 11px 15px;
+
+    text-align: left;
+
+    border: 0;
+
+    cursor: pointer;
+
+    background: transparent;
+  }
+
+  /* =====================================================
+       START YOUR PROJECT
+    ====================================================== */
+
+  .navication-ber .Project_bt-n {
+    width: 100%;
+
+    margin-top: 20px;
+  }
+
+  .navication-ber .Project_bt-n a {
+    width: 100%;
+    min-height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 20px;
+    text-align: center;
+    white-space: normal;
+    text-decoration: none;
+    border-radius: 7px;
+    transition:
+      transform 0.25s ease,
+      box-shadow 0.25s ease;
+  }
+  .navication-ber .Project_bt-n a:hover {
+    transform: translateY(-2px);
+  }
+  /* =====================================================
+       DARK OVERLAY
+    ====================================================== */
+  .mobile-menu-overlay {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10003;
+    background: rgba(0, 0, 0, 0.52);
+    opacity: 0;
+    visibility: hidden;
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    transition:
+      opacity 0.35s ease,
+      visibility 0.35s ease;
+  }
+  .mobile-menu-overlay.active {
+    opacity: 1;
+    visibility: visible;
+  }
+  /* =====================================================
+       BODY LOCK
+    ====================================================== */
+
+  body.mobile-menu-open {
+    overflow: hidden;
+  }
+}
+@media (max-width: 768px) {
+  .header_section > .logo img {
+    width: 100px !important;
+  }
+
+  .product-tabs > button {
+    width: 100%;
+  }
+  nav {
+    display: none;
+  }
+  .navication-mobile-ber {
+    display: block;
+  }
+  .has-submenu.active .submenu1 {
+    display: block;
+  }
+  .hero_section_btn > a:first-child,
+  .hero_section_btn > a:last-child {
+    padding: 20px 10px;
+    font-size: 1em;
+  }
+
+  .brand-item {
+    width: 105px;
+  }
+
+  .footer_cr > .col-sm-6 {
+    width: 100%;
+  }
+  a.projectImg-link {
+    width: 100%;
+  }
+  .copyright > span,
+  .footer-credit > span {
+    font-size: 14px;
+  }
+
+  .navication-ber {
+    display: none;
+  }
+  .submenu1 {
+    padding-left: 20px;
+  }
+  .submenu1 > li > a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 400;
+  }
+  .submenu1 > li {
+    list-style: none;
+    padding: 10px 0px;
+  }
+  .EngineeringArea-img_box {
+    flex-direction: column;
+  }
+
+  .EngineeringArea-image {
+    width: 100%;
+  }
+
+  .project-form {
+    width: 90%;
+  }
+
+  .hero_heading > h1,
+  .Engineering-titel > h1 {
+    font-size: 38px;
+  }
+
+  .Industries-titel,
+  .product-titel,
+  .brand-titel,
+  .product_titel-box > h2,
+  .about-textBox > h2,
+  .EngineeringArea-textArea > h2,
+  .solutions-title,
+  .engineering-title,
+  .Engineering-Solutions-text-box > h2,
+  .our-core-titel,
+  .Industries,
+  .Projects-titel,
+  .project-content-text-box > h2,
+  .project-details-show-text > h2,
+  .contact-form-wrapper > h2,
+  .categories-show-text > h2,
+  .product-content > h2 {
+    font-size: 24px;
+  }
+
+  .solution-card > h3,
+  .Industries-content-box > h3,
+  .ProductsBox > h3,
+  .footer-linkBox > h3,
+  .Our-Core-content-text > h3,
+  .quotation-header > h3,
+  .serve-image-box > h3,
+  .projectImg-box > h3,
+  .contact-info > h3,
+  .categories-show-text > h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .Engineering-titel > h1 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .categories-box > .container > .row {
+    row-gap: 30px;
+  }
+
+  .contact-info-text > strong,
+  .contact-form-group > label {
+    font-size: 15px;
+  }
+
+  .contact-icon > i {
+    font-size: 20px;
+  }
+
+  .contact-info-text > span {
+    font-size: 15px;
+  }
+
+  .Industries-content-box > p,
+  .view_btN > a,
+  .about-textBox > p,
+  .about-textBox > a,
+  .product_titel-box > a,
+  .footer_logoBox > p,
+  .info,
+  .news_btn > a,
+  .EngineeringArea-textArea > p,
+  .product_titel-box > p,
+  .Engineering-Solutions-text-box > p,
+  .Our-Core-content-text > p,
+  .product_btn > a,
+  .hero_pragraph > p,
+  .ProductsBox > a,
+  #projectSubmitBtn,
+  .serve-image-box > p,
+  .projectImg-box > a,
+  .projectImg-box > p,
+  .contact-item > p,
+  .project-content-text-box > p,
+  .project-content-text-box > a,
+  .project-details-show-text > p:last-child,
+  .project-details-show-text > p,
+  .listing-dotted > li,
+  .contact-info > p,
+  .contact-submit > button,
+  .product-tab-content > p,
+  .quotation-btn,
+  .Project_bt-n > a {
+    font-size: 14px;
+  }
+
+  .ProductsPra > p {
+    height: 130px;
+  }
+
+  .product-details-section > .container > .row {
+    row-gap: 30px;
+  }
+
+  .product-details-section {
+    padding: 150px 0px 100px 0px;
+  }
+
+  .categories-box {
+    padding: 50px 0px;
+  }
+
+  .product-info > p {
+    margin-bottom: 10px;
+  }
+
+  .project-content-text-box {
+    margin-top: 100px;
+  }
+
+  .product-thumb {
+    width: 100px;
+    height: 80px;
+  }
+
+  .product-tab {
+    padding: 15px 0px;
+    font-size: 16px;
+  }
+
+  .product-tabs {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+
+  .specification-row {
+    font-size: 14px;
+  }
+
+  .product-tab-content h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  .contact-info,
+  .contact-form-wrapper {
+    width: 100%;
+    padding: 15px 20px;
+  }
+
+  .contact-container {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .contact-form-group > input,
+  .full-width > select {
+    padding: 5px 5px;
+  }
+
+  .contact-form-wrapper > h2 {
+    margin-bottom: 20px;
+  }
+
+  .alg-ce {
+    row-gap: 30px;
+  }
+
+  .project-description-panel-box > div > strong,
+  .project-description-panel-box > div > span {
+    font-size: 14px;
+  }
+
+  .project-details-show-content {
+    padding: 50px 0px;
+  }
+
+  .projectImg-box > h2,
+  .projectImg-box > p {
+    margin-bottom: 0;
+  }
+
+  .contact-item > h4,
+  .footer-linkBox > ul > li,
+  .footer_logoBox > p {
+    font-size: 15px;
+  }
+
+  .full-width {
+    margin-bottom: 10px;
+  }
+
+  .quotation-header > h3 {
+    padding-bottom: 10px;
+  }
+
+  #sendOtpBtn,
+  #verifyOtpBtn,
+  .form-group > label,
+  .full-width > textarea,
+  .form-group > select {
+    font-size: 10px;
+  }
+
+  .form-group > input::placeholder,
+  .email-otp-wrapper > input::placeholder {
+    font-size: 12px;
+  }
+
+  .project-form {
+    padding: 10px 20px;
+  }
+
+  .product_btn {
+    margin-top: 20px;
+  }
+
+  .Our-Products,
+  .about_section,
+  .Industries_content_box,
+  .Engineering-Solutions-section,
+  .Our-Core-content-box,
+  .We-Serve-content-box,
+  .Our-Projects-content-box {
+    padding: 50px 0px;
+  }
+
+  .footer-gap,
+  .a-center {
+    row-gap: 30px;
+  }
+
+  .brand-item img {
+    width: 150px;
+  }
+
+  .brands-section {
+    padding: 25px 0px;
+  }
+
+  .our-core-titel {
+    margin-bottom: 25px;
+  }
+
+  .copyright,
+  .footer-credit {
+    text-align: center;
+  }
+
+  .hero_section_btn {
+    gap: 15px;
+  }
+
+  .hero_pragraph > p {
+    margin-bottom: 20px;
+  }
+
+  .engineering-container {
+    width: 100%;
+  }
+
+  .brands-section {
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .brands-slider {
+    width: 100%;
+    overflow: hidden;
+    /* display: none; */
+  }
+
+  .brands-track {
+    display: flex;
+    width: max-content;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  .brand-item {
+    flex: 0 0 auto;
+  }
+
+  .footer_cr {
+    gap: 10px;
+  }
+
+  footer {
+    padding: 50px 0px 0px 0px;
+  }
+
+  .contact-item > h4,
+  .footer-linkBox > ul > li,
+  .footer_logoBox > p {
+    margin-bottom: 10px;
+  }
+
+  .footer_logoBox > a > img {
+    margin-bottom: 20px;
+  }
+
+  .social_mediaIcon > a > svg {
+    width: 25px;
+  }
+
+  .social_mediaIcon {
+    gap: 20px;
+  }
+
+  .footer-gap {
+    padding-bottom: 40px;
+  }
+
+  .b-tr {
+    margin-top: 22px !important;
+  }
+
+  .Our-Products > .container > .row,
+  .alien-items,
+  .product-box > .container > .row {
+    row-gap: 35px;
+  }
+
+  .news_btn,
+  .view_btN {
+    margin-top: 25px;
+  }
+
+  .about-textBox > p {
+    margin-bottom: 30px;
+  }
+
+  .about-textBox > h2 {
+    margin-bottom: 15px;
+  }
+
+  .EngineeringArea-textArea {
+    padding: 0px 10px;
+  }
+
+  /* =====================================================
+       HEADER
+    ===================================================== */
+
+  .header_section {
+    position: relative;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* =====================================================
+       LOGO
+    ===================================================== */
+
+  .header_section .logo {
+    position: relative;
+    z-index: 10004;
+  }
+
+  /* =====================================================
+       HAMBURGER BUTTON
+    ===================================================== */
+
+  .mobile-menu-toggle {
+    width: 44px;
+    height: 44px;
+
+    padding: 0;
+    margin: 0;
+
+    border: 0;
+    outline: 0;
+
+    background: transparent;
+
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    gap: 6px;
+
+    cursor: pointer;
+
+    position: relative;
+    z-index: 10006;
+
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+
+  /* =====================================================
+       HAMBURGER LINES
+    ===================================================== */
+
+  .mobile-menu-toggle span {
+    display: block;
+
+    width: 28px;
+    height: 3px;
+
+    background: currentColor;
+
+    border-radius: 3px;
+
+    transform-origin: center;
+
+    transition:
+      transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+      opacity 0.2s ease,
+      width 0.3s ease;
+  }
+
+  /* =====================================================
+       HAMBURGER → CROSS
+    ===================================================== */
+
+  .mobile-menu-toggle.active span:nth-child(1) {
+    transform: translateY(9px) rotate(45deg);
+  }
+
+  .mobile-menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+
+  .mobile-menu-toggle.active span:nth-child(3) {
+    transform: translateY(-9px) rotate(-45deg);
+  }
+
+  /* =====================================================
+       MOBILE SIDEBAR
+    ===================================================== */
+
+  .header_section .navication-ber {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: min(86%, 370px);
+    height: 100dvh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    background: #ffffff;
+    z-index: 10005;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    overflow-x: hidden;
+    overflow-y: auto;
+    transform: translate3d(-105%, 0, 0);
+    visibility: hidden;
+    box-shadow: 12px 0 40px rgba(0, 0, 0, 0.12);
+    transition:
+      transform 0.4s cubic-bezier(0.22, 1, 0.36, 1),
+      visibility 0.4s ease;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+  }
+
+  /* =====================================================
+       SIDEBAR OPEN
+    ===================================================== */
+
+  .header_section .navication-ber.mobile-menu-active {
+    transform: translate3d(0, 0, 0);
+
+    visibility: visible;
+  }
+
+  /* =====================================================
+       NAVIGATION WRAPPER
+    ===================================================== */
+
+  .header_section .navication-ber nav {
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+
+    flex: 0 0 auto;
+  }
+
+  /* =====================================================
+       MAIN NAVIGATION UL
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul {
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* =====================================================
+       MAIN MENU ITEM
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li {
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+
+    position: relative;
+
+    border-bottom: 1px solid rgba(0, 0, 0, 0.075);
+  }
+
+  /* =====================================================
+       MAIN MENU LINK
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li > a {
+    width: 100%;
+
+    min-height: 54px;
+
+    padding: 15px 42px 15px 5px;
+
+    margin: 0;
+
+    display: flex;
+
+    align-items: center;
+
+    box-sizing: border-box;
+
+    text-decoration: none;
+
+    transition:
+      padding-left 0.25s ease,
+      background-color 0.25s ease;
+  }
+
+  /* =====================================================
+       MENU HOVER / TAP
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li > a:hover {
+    padding-left: 10px;
+
+    background: rgba(0, 0, 0, 0.025);
+  }
+
+  /* =====================================================
+       CURRENT MENU
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li.current-menu-item > a {
+    padding-left: 10px;
+  }
+
+  /* =====================================================
+       PRODUCTS PARENT
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li.has-submenu {
+    position: relative;
+
+    transition: background-color 0.25s ease;
+  }
+
+  /* =====================================================
+       PRODUCTS ARROW CLICK AREA
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li.has-submenu > .submenu-arrow {
+    position: absolute;
+
+    top: 0;
+    right: 0;
+
+    width: 54px;
+    height: 54px;
+
+    margin: 0;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+
+    z-index: 10;
+
+    transform: rotate(0deg);
+
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* =====================================================
+       PRODUCTS ARROW OPEN
+    ===================================================== */
+
+  .header_section
+    .navication-ber
+    nav
+    > ul
+    > li.has-submenu.submenu-open
+    > .submenu-arrow {
+    transform: rotate(180deg);
+  }
+
+  /* =====================================================
+       PRODUCTS PARENT OPEN STATE
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li.has-submenu.submenu-open {
+    background: rgba(0, 0, 0, 0.018);
+  }
+
+  /* =====================================================
+       SUBMENU
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li.has-submenu > .submenu {
+    display: none;
+
+    position: static;
+
+    width: 100%;
+    height: auto;
+
+    margin: 0;
+
+    padding: 6px 0 12px 14px;
+
+    list-style: none;
+
+    background: rgba(0, 0, 0, 0.025);
+
+    border-left: 2px solid rgba(0, 0, 0, 0.08);
+
+    box-shadow: none;
+
+    transform: none;
+
+    visibility: visible;
+
+    opacity: 1;
+
+    box-sizing: border-box;
+  }
+
+  /* =====================================================
+       SUBMENU OPEN
+    ===================================================== */
+
+  .header_section
+    .navication-ber
+    nav
+    > ul
+    > li.has-submenu.submenu-open
+    > .submenu {
+    display: block;
+    margin-top: 10px;
+  }
+
+  /* =====================================================
+       SUBMENU ITEMS
+    ===================================================== */
+
+  .header_section .navication-ber nav > ul > li.has-submenu > .submenu > li {
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+
+    position: relative;
+  }
+
+  /* =====================================================
+       SUBMENU LINKS
+    ===================================================== */
+
+  .header_section
+    .navication-ber
+    nav
+    > ul
+    > li.has-submenu
+    > .submenu
+    > li
+    > a {
+    width: 100%;
+
+    min-height: 44px;
+
+    padding: 11px 20px 11px 12px;
+
+    display: flex;
+
+    align-items: center;
+
+    box-sizing: border-box;
+
+    text-decoration: none;
+
+    transition:
+      padding-left 0.25s ease,
+      background-color 0.25s ease;
+  }
+
+  .header_section
+    .navication-ber
+    nav
+    > ul
+    > li.has-submenu
+    > .submenu
+    > li
+    > a:hover {
+    padding-left: 17px;
+
+    background: rgba(0, 0, 0, 0.035);
+  }
+
+  /* =====================================================
+       LANGUAGE AREA
+       STAYS AT BOTTOM
+    ===================================================== */
+
+  .header_section .navication-ber .language-switcher {
+    width: 100%;
+
+    margin-top: auto;
+
+    padding: 15px 0 20px;
+
+    box-sizing: border-box;
+
+    position: relative;
+
+    flex: 0 0 auto;
+
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  /* =====================================================
+       LANGUAGE BUTTON
+    ===================================================== */
+
+  .header_section .navication-ber .language-btn {
+    width: 100%;
+
+    min-height: 46px;
+
+    margin: 0;
+
+    padding: 10px 12px;
+
+    display: flex;
+
+    align-items: center;
+
+    box-sizing: border-box;
+
+    cursor: pointer;
+
+    border: 0;
+
+    background: transparent;
+  }
+
+  /* =====================================================
+       LANGUAGE DROPDOWN
+    ===================================================== */
+
+  .header_section .navication-ber .language-dropdown {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+
+    width: 100%;
+
+    margin: 0;
+
+    padding: 6px;
+
+    box-sizing: border-box;
+
+    background: #ffffff;
+
+    border: 1px solid rgba(0, 0, 0, 0.08);
+
+    border-radius: 8px;
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+
+    z-index: 20;
+
+    opacity: 0;
+
+    visibility: hidden;
+
+    transform: translateY(8px);
+
+    transition:
+      opacity 0.25s ease,
+      visibility 0.25s ease,
+      transform 0.25s ease;
+  }
+
+  /* =====================================================
+       LANGUAGE DROPDOWN OPEN
+       Works with common class names
+    ===================================================== */
+
+  .header_section .navication-ber .language-switcher.active .language-dropdown,
+  .header_section .navication-ber .language-dropdown.show {
+    opacity: 1;
+
+    visibility: visible;
+
+    transform: translateY(0);
+  }
+
+  /* =====================================================
+       LANGUAGE DROPDOWN BUTTONS
+    ===================================================== */
+
+  .header_section .navication-ber .language-dropdown button {
+    width: 100%;
+
+    min-height: 42px;
+
+    padding: 9px 12px;
+
+    border: 0;
+
+    background: transparent;
+
+    display: flex;
+
+    align-items: center;
+
+    cursor: pointer;
+
+    text-align: left;
+
+    box-sizing: border-box;
+  }
+
+  .header_section .navication-ber .language-dropdown button:hover {
+    background: rgba(0, 0, 0, 0.04);
+  }
+
+  /* =====================================================
+       PROJECT BUTTON
+       ABOVE LANGUAGE
+    ===================================================== */
+
+  .header_section .navication-ber .Project_bt-n {
+    width: 100%;
+
+    margin: 0 0 15px;
+
+    padding: 15px 0 0;
+
+    box-sizing: border-box;
+
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+
+    flex: 0 0 auto;
+  }
+
+  .header_section .navication-ber .Project_bt-n a {
+    width: 100%;
+
+    min-height: 48px;
+
+    padding: 12px 15px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    box-sizing: border-box;
+  }
+
+  /* =====================================================
+       OVERLAY
+    ===================================================== */
+
+  .mobile-menu-overlay {
+    display: block;
+
+    position: fixed;
+
+    inset: 0;
+
+    width: 100%;
+    height: 100vh;
+    height: 100dvh;
+
+    background: rgba(0, 0, 0, 0.48);
+
+    z-index: 10004;
+
+    opacity: 0;
+
+    visibility: hidden;
+
+    pointer-events: none;
+
+    transition:
+      opacity 0.35s ease,
+      visibility 0.35s ease;
+
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+  }
+
+  /* =====================================================
+       OVERLAY ACTIVE
+    ===================================================== */
+
+  .mobile-menu-overlay.active {
+    opacity: 1;
+
+    visibility: visible;
+
+    pointer-events: auto;
+  }
+
+  /* =====================================================
+       BODY LOCK
+    ===================================================== */
+
+  body.mobile-menu-open {
+    overflow: hidden;
+
+    touch-action: none;
+  }
+
+  /* =====================================================
+       SIDEBAR SCROLLBAR
+    ===================================================== */
+
+  .header_section .navication-ber::-webkit-scrollbar {
+    width: 3px;
+  }
+
+  .header_section .navication-ber::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .header_section .navication-ber::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.15);
+
+    border-radius: 10px;
+  }
+
+  .sticky-header {
+    position: sticky;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+
+    z-index: 9999;
+
+    background: #fff;
+  }
+
+  /* ===============================
+       HEADER SECTION
+    =============================== */
+
+  .sticky-header .header_section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+  }
+
+  /* ===============================
+       MAIN LOGO
+    =============================== */
+
+  .sticky-header .header_section > .logo {
+    position: relative;
+    z-index: 10001;
+
+    flex-shrink: 0;
+  }
+
+  /* ===============================
+       HAMBURGER
+    =============================== */
+
+  .sticky-header .mobile-menu-toggle {
+    position: relative;
+    z-index: 10006;
+
+    flex-shrink: 0;
+  }
+
+  /* ===============================
+       MOBILE SIDEBAR
+    =============================== */
+
+  .sticky-header .navication-ber {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: min(86%, 370px);
+    height: 100vh;
+    height: 150dvh;
+    z-index: 10005;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  .mobile-sidebar-logo > a > img {
+    width: 100px;
+  }
+
+  .solutions-slider-wrap {
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .solutionsSwiper {
+    width: 100%;
+  }
+
+  /* ===============================
+       MOBILE OVERLAY
+    =============================== */
+
+  .sticky-header .mobile-menu-overlay {
+    position: fixed;
+
+    inset: 0;
+
+    width: 100%;
+    height: 100vh;
+    height: 100dvh;
+
+    z-index: 10004;
+  }
+
+  .mobile-sidebar-logo {
+    display: block;
+    margin-bottom: 15px;
+  }
+
+  /* Products parent */
+  .navication-ber .has-submenu {
+    position: relative;
+  }
+
+  /* Products arrow */
+  .navication-ber .has-submenu > .submenu-arrow {
+    position: absolute;
+
+    top: 0;
+    right: 0;
+
+    width: 54px;
+    height: 54px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0;
+
+    cursor: pointer;
+
+    z-index: 10;
+
+    transition: transform 0.3s ease;
+  }
+
+  /* =====================================================
+       SUBMENU CLOSED
+    ===================================================== */
+
+  .navication-ber .has-submenu > .submenu {
+    display: none;
+
+    position: static;
+
+    width: 100%;
+    height: auto;
+
+    margin: 0;
+    padding: 5px 0 10px 14px;
+
+    background: transparent;
+
+    box-shadow: none;
+
+    opacity: 1;
+    visibility: visible;
+
+    transform: none;
+
+    box-sizing: border-box;
+
+    border-left: 2px solid rgba(0, 0, 0, 0.08);
+  }
+
+  /* =====================================================
+       SUBMENU OPEN
+    ===================================================== */
+
+  .navication-ber .has-submenu.submenu-open > .submenu {
+    display: block;
+  }
+
+  /* =====================================================
+       ARROW ROTATION
+    ===================================================== */
+
+  .navication-ber .has-submenu.submenu-open > .submenu-arrow {
+    transform: rotate(180deg);
+  }
+
+  /* =====================================================
+       SUBMENU LI
+    ===================================================== */
+
+  .navication-ber .has-submenu > .submenu > li {
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+  }
+
+  /* =====================================================
+       SUBMENU LINK
+    ===================================================== */
+
+  .navication-ber .has-submenu > .submenu > li > a {
+    display: flex;
+    align-items: center;
+
+    width: 100%;
+    min-height: 44px;
+
+    padding: 10px 15px;
+
+    box-sizing: border-box;
+
+    text-decoration: none;
+  }
+}
+
+@media (max-width: 576px) {
+  .project-form {
+    width: 100%;
+  }
+}
+@media (max-width: 480px) {
+  .project-form {
+    width: 100%;
+  }
+}
